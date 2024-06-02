@@ -1,4 +1,4 @@
-// Existing JavaScript
+
 
 // Show Menu
 const showMenu = (toggleId, navId) => {
