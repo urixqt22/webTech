@@ -386,6 +386,11 @@ img{
     }
 }
 
+.zoomed {
+    transform: scale(1.5);
+    transition: transform .5s ease-in-out;
+}
+
 
 
 @media screen and (min-width: 1024px){
